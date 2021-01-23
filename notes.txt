@@ -1,0 +1,11 @@
+On Linux, if you are not able to open the Serial Monitor, then run the following command :
+
+$ sudo chown <username> <Name of the port>
+
+For example
+$ sudo chown axai /dev/ttyACM0
+
+Running this command will open the Serial Monitor.
+
+In my case, /dev/ttyACM0 was the name of the port. On Windows, we see that it is usually COMx (Ex. COM3).
+ 
