@@ -1,113 +1,50 @@
 Begin
-0.02 μSv/h
-46.91 CPM
-0.00 μSv/h
-0.00 CPM
-0.00 μSv/h
-0.00 CPM
-0.08 μSv/h
-187.65 CPM
-0.13 μSv/h
-304.93 CPM
-0.11 μSv/h
-258.02 CPM
-0.07 μSv/h
-164.19 CPM
-0.00 μSv/h
-0.00 CPM
-0.00 μSv/h
-0.00 CPM
-0.01 μSv/h
-23.46 CPM
-0.10 μSv/h
-234.56 CPM
-0.06 μSv/h
-140.74 CPM
-0.04 μSv/h
-93.82 CPM
-0.00 μSv/h
-0.00 CPM
-0.04 μSv/h
-93.82 CPM
-0.09 μSv/h
-211.10 CPM
-0.00 μSv/h
-0.00 CPM
-0.00 μSv/h
-0.00 CPM
-0.00 μSv/h
-0.00 CPM
-0.03 μSv/h
-70.37 CPM
-0.00 μSv/h
-0.00 CPM
-0.03 μSv/h
-70.37 CPM
-0.08 μSv/h
-187.65 CPM
-0.03 μSv/h
-70.37 CPM
-0.00 μSv/h
-0.00 CPM
-0.00 μSv/h
-0.00 CPM
-0.01 μSv/h
-23.46 CPM
-0.12 μSv/h
-281.47 CPM
-0.01 μSv/h
-23.46 CPM
-0.12 μSv/h
-281.47 CPM
-0.00 μSv/h
-0.00 CPM
-0.02 μSv/h
-46.91 CPM
-0.00 μSv/h
-0.00 CPM
-0.04 μSv/h
-93.82 CPM
-0.00 μSv/h
-0.00 CPM
-0.00 μSv/h
-0.00 CPM
-0.00 μSv/h
-0.00 CPM
-0.09 μSv/h
-211.10 CPM
-0.00 μSv/h
-0.00 CPM
-0.07 μSv/h
-164.19 CPM
-0.08 μSv/h
-187.65 CPM
-0.07 μSv/h
-164.19 CPM
-0.00 μSv/h
-0.00 CPM
-0.06 μSv/h
-140.74 CPM
-0.00 μSv/h
-0.00 CPM
-0.00 μSv/h
-0.00 CPM
-0.02 μSv/h
-46.91 CPM
-0.00 μSv/h
-0.00 CPM
-0.11 μSv/h
-258.02 CPM
-0.00 μSv/h
-0.00 CPM
-0.01 μSv/h
-23.46 CPM
-0.02 μSv/h
-46.91 CPM
-0.06 μSv/h
-140.74 CPM
-0.00 μSv/h
-0.00 CPM
-0.02 μSv/h
-46.91 CPM
-0.00 μSv/h
-0.00 CPM
+
+4.40 μSv/h
+
+103.21 CPM
+
+2.30 μSv/h
+
+53.95 CPM
+
+2.10 μSv/h
+
+49.26 CPM
+
+4.20 μSv/h
+
+98.52 CPM
+
+1.50 μSv/h
+
+35.18 CPM
+
+2.10 μSv/h
+
+49.26 CPM
+
+1.90 μSv/h
+
+44.57 CPM
+
+2.80 μSv/h
+
+65.68 CPM
+
+2.80 μSv/h
+
+65.68 CPM
+
+4.30 μSv/h
+
+100.86 CPM
+
+3.90 μSv/h
+
+91.48 CPM
+
+7.10 μSv/h
+
+166.54 CPM
+
