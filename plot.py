@@ -1,5 +1,4 @@
 import matplotlib.pyplot as plt
-import numpy as np
 from collections import OrderedDict
 
 file1 = open('readings.txt', 'r')
